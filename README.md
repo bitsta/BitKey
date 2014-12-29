@@ -28,6 +28,8 @@ sudo make install
 sudo ldconfig   #linking only required on linux
 ```
 
+**Install [librootcoin](https://github.com/bitsta/librootcoin) like described in the instructions.
+
 ##Configuration
 
 ##Usage
