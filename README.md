@@ -1,4 +1,4 @@
-# Bitkey v0.9 beta 
+# Bitkey v0.9 beta - work in progress
 
 ## Introduction
 
